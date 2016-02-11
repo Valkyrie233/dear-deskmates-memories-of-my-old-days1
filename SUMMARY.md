@@ -1,6 +1,6 @@
-# Dear Deskmates Biographies of My Old Days
+# Dear Deskmates' Memories of My Old Days
 
-
+  Because of a homework accident,some memories crashed me.
 
 * [Introduction](README.md)
 * [chapter 1](chapter1胖子.md)
